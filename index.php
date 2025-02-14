@@ -1,7 +1,7 @@
-<? pkp
+<? php
 
 
-       echo "helo word"
+       echo "Olá Mundo!"
 	   
 	   
 	   
